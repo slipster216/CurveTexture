@@ -1,5 +1,3 @@
-![](http://imgur.com/K2YMMyt)
-
 Curve Texture for Unity
 ©2015 Jason Booth
 	
