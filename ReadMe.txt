@@ -6,3 +6,4 @@ Curve Texture for Unity
 	You can select the size of the texture to generate as well as the wrap, filter, and anisotropic properties. Finally, you can save the texture in case you’d prefer to bake it out and not generate it at runtime.
 	The main benefit of using the component is iteration speed and workflow; the data adjusts interactively in the editor, rather than having to flip to an external app, adjust, and reimport, and it’s easy to represent exactly the curve you desire. 
 	
+   Gradient Texture is the same thing, but with a gradient, which is more an ease of use thing since gradients are easy to create in art tools. 
